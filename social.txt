@@ -1,25 +1,52 @@
-# --- INSTAGRAM ---
+# === INSTAGRAM & THREADS APP + CDNs ===
 instagram.com
+www.instagram.com
+i.instagram.com
+api.instagram.com
+graph.instagram.com
+logger.instagram.com
+platform.instagram.com
 cdninstagram.com
+distillery.instagram.com
 ig.me
 threads.net
 www.threads.net
 
-# --- SNAPCHAT ---
+# Meta Global Media Delivery CDNs (Crucial for Instagram media)
+fbcdn.net
+www.fbcdn.net
+fbcdn.com
+fbsbx.com
+
+# Akamai & Edge Servers mapped to Instagram
+instagram.com.edgekey.net
+cdninstagram.com.edgekey.net
+
+# === SNAPCHAT APP + CDNs ===
 snapchat.com
+www.snapchat.com
+ads.snapchat.com
+adsapi.snapchat.com
+accounts.snapchat.com
+geofilters.snapchat.com
+tr.snapchat.com
 snapads.com
+snapkit.com
+app-analytics.snapchat.com
 sc-static.net
+sc-analytics.app
 snapchat.com.edgekey.net
 
-# --- SPOTIFY ---
+# === SPOTIFY & AUDIO STREAMING ===
 spotify.com
+www.spotify.com
 scdn.co
 spoti.fi
 audio-ak-spotify-com.akamaized.net
 heads-ak-spotify-com.akamaized.net
 spotify.map.fastly.net
 
-# --- AUTOEMBED ---
+# === MOVIE AUTOEMBED PLAYERS ===
 autoembed.cc
 watch.autoembed.cc
 player.autoembed.cc
