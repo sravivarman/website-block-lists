@@ -1,35 +1,23 @@
 # --- INSTAGRAM ---
 instagram.com
-://instagram.com
 cdninstagram.com
-://cdninstagram.com
 ig.me
-://instagram.com
-ap://instagram.com
-://instagram.com
 threads.net
 www.threads.net
 
 # --- SNAPCHAT ---
 snapchat.com
-://snapchat.com
 snapads.com
 sc-static.net
 snapchat.com.edgekey.net
-://snapchat.com
-://snapchat.com
-://snapchat.com
 
 # --- SPOTIFY ---
 spotify.com
-://spotify.com
 scdn.co
 spoti.fi
 audio-ak-spotify-com.akamaized.net
 heads-ak-spotify-com.akamaized.net
 spotify.map.fastly.net
-://spotify.com
-://spotify.com
 
 # --- AUTOEMBED ---
 autoembed.cc
