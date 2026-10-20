@@ -11,6 +11,18 @@ distillery.instagram.com
 ig.me
 threads.net
 www.threads.net
+i-fallback.instagram.com
+test-gateway.instagram.com
+scontent-hyd1-2.cdninstagram.com
+instagram.fhyd2-2.fna.fbcdn.net
+instagram.fhyd2-3.fna.fbcdn.net
+instagram.fhyd11-2.fna.fbcdn.net
+instagram.fhyd11-3.fna.fbcdn.net
+instagram.fhyd14-1.fna.fbcdn.net
+instagram.fhyd14-2.fna.fbcdn.net
+instagram.c10r.instagram.com
+star.fallback.c10r.instagram.com
+dgw-ig.c10r.facebook.com
 
 # Meta Global Media Delivery CDNs (Crucial for Instagram media)
 fbcdn.net
