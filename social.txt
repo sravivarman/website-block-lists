@@ -48,6 +48,11 @@ app-analytics.snapchat.com
 sc-static.net
 sc-analytics.app
 snapchat.com.edgekey.net
+sc-cdn.net
+cf-st.sc-cdn.net
+bolt-gcdn.sc-cdn.net
+gcs.sc-cdn.net
+aw.sc-cdn.net
 
 # === SPOTIFY & AUDIO STREAMING ===
 spotify.com
